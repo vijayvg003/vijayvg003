@@ -77,12 +77,6 @@ Java + Hibernate project performing database operations.
 
 ---
 
-## 📊 GitHub Stats
-
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijayvg003&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vijayvg003&theme=tokyonight)
@@ -91,5 +85,5 @@ Java + Hibernate project performing database operations.
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: add-your-linkedin-link
+📧 Email: vijayvg9787@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/vijay-s-904g
