@@ -17,6 +17,7 @@
 - HTML
 - CSS
 - JavaScript
+- React(Basics)
 
 ### ⚙️ Backend Technologies
 - JDBC
